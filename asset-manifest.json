@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DishesWebsite/static/css/main.dd18ce84.css",
+    "main.js": "/DishesWebsite/static/js/main.9b9c55c1.js",
+    "index.html": "/DishesWebsite/index.html",
+    "main.dd18ce84.css.map": "/DishesWebsite/static/css/main.dd18ce84.css.map",
+    "main.9b9c55c1.js.map": "/DishesWebsite/static/js/main.9b9c55c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd18ce84.css",
+    "static/js/main.9b9c55c1.js"
+  ]
+}
